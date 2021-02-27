@@ -1,0 +1,6 @@
+Data Preprocessing Steps followed :
+  1) Handling Missing data - replacing Nan values with average
+  2) Categorical Encoding
+  3) Label Encoding
+  4) Train Test Split
+  5) Feature Scaling (Standardization)
